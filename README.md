@@ -4,13 +4,15 @@
 ```
 IDE: Visual Code
 Programming languages: PHP, Javascript, HTML
-URL: http://OpenNews.epizy.com/
+URL: http://opennews.epizy.com/
+API: https://newsapi.org
 ```
 
 ## Description
 ```
-Basic news website where clients can view top news in different countries and categories, search for specific news topics and
-choose between various news sources. Hosted on InfinityFree.
+Basic news website where clients can view top news in different countries and categories,
+search for specific news topics andchoose between various news sources.
+Hosted on InfinityFree.
 ```
 
 ## Learning outcomes
