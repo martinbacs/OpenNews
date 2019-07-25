@@ -1,4 +1,4 @@
-# OpenNews
+# OpenNews(Work in progress)
 
 ## Project information
 ```
